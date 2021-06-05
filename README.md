@@ -1,5 +1,5 @@
 - 👋 Hi there world, I’m @osx86-ijb! Nice to meet you!
-- 🦾 I'm a Co-Owner of the Hackintosh Related Group known as Core x86. Our mission is to preserve the legacy of all things x86-based Hackintoshing related.
+- 🦾 I'm a Co-Owner of the Hackintosh Related Group known as Core x86. Our mission is to preserve the legacy of all things related to x86-based Hackintoshing.
 - 🤓 I'm also a designer/developer at M6 Securities LLC, a SaaS based startup out of Orem, UT.
 - 👀 I’m interested in all forms of design and development, and learning Assembly Machine Languages!
 - 🌱 I’m currently learning to live again one day at a time + a little bit of firebase, as well as some NextJS + NodeJS.
