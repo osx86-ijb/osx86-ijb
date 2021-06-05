@@ -4,7 +4,7 @@
 - 👀 I’m interested in all forms of design and development, and learning Assembly Machine Languages!
 - 🌱 I’m currently learning to live again one day at a time + a little bit of firebase, as well as some NextJS + NodeJS.
 - 💞️ I’m looking to collaborate on anything and everything that will help me further secure both my future and place in this big wide world.
-- 📫 I can be reached at osx86-ijb@gmail.com, or on the Core x86 Discord Server (The link is: https://discord.corex86.com)
+- 📫 I can be reached at osx86.ijb@gmail.com, or on the Core x86 Discord Server (The link is: https://discord.corex86.com)
 
 <!---
 m6securities-jbj/m6securities-jbj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
