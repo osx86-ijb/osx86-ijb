@@ -2,27 +2,27 @@
 <br>
 - 👋 
 <br>
-  **Hi there world, I’m @osx86-ijb! Nice to e-meet you!**
+  __Hi there world, I’m @osx86-ijb! Nice to e-meet you!__
 <br>
 - 🦾 
 <br>  
-  **I'm the Owner of the Hackintosh Related Group known as Legacy macOS x86.**
+  __I'm the Owner of the Hackintosh Related Group known as Legacy macOS x86.__
 <br>  
 - 🤓 
 <br>  
-  **I'm a designer/developer at M6 Securities LLC**
+  __I'm a designer/developer at M6 Securities LLC.__
 <br>
 - 👀 
 <br>
-  **I’m interested in becoming more proficient with Assembly Machine Languages building upon my 16+ years experience, as well as many other programming languages!**
+  __I’m interested in becoming more proficient with Assembly Machine Languages building upon my 16+ years experience, as well as many other programming languages!__
 <br>
 - 🌱 
 <br>  
-  **I’m currently learning to live again one second at a time.**
+  __I’m currently learning to live again one second at a time.__
 <br>
 - 💞️ 
 <br>  
-  **I’m looking to collaborate on anything and everything that will help me further secure both my future and place in this big wide world.**
+  __I’m looking to collaborate on anything and everything that will help me further secure both my future and place in this big wide world.__
 </p>
 
 <!---
