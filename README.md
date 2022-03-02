@@ -2,30 +2,30 @@
 <br>
 - 👋 
 <br>
-Hi there world, I’m @osx86-ijb!** **Nice to e-meet you!
+Hi there world, I’m @osx86-ijb!** **Nice to e-meet you! This repository will house a lot of my tinkerings with different code, covering a lot of different research and stuff!
 <br>
 - 🦾 
 <br>  
-I'm the Owner of the Hackintosh Related Group known as Legacy macOS x86.
+I'm just me, an amalgamation of everything this world doesn't want to exist.
 <br>  
 - 🤓 
 <br>  
-I'm a designer/developer at M6 Securities LLC.
+I'm many things, some of which are: Designer, Developer, Programmer, Researcher, Pro Security
 <br>
 - 👀 
 <br>
-I’m interested in becoming more proficient with Assembly Machine Languages building upon my 16+ years experience, as well as many other programming languages!
+I’m interested in becoming more proficient with Assembly Machine Languages, and learning more about everything that I can to become a Superhero.
 <br>
 - 🌱 
 <br>  
-I’m currently learning to live again one second at a time.
+The day you plant the seed is not the day you eat the fruit.
 <br>
 - 💞️ 
 <br>  
-I’m looking to collaborate on anything and everything that will help me further secure both my future and place in this big wide world.
+Major amounts of light, love, peace, and wellness sent to everyone in this wide world.
 </p>
 
 <!---
-m6securities-jbj/m6securities-jbj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+osx86-ijb/osx86-ijb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
