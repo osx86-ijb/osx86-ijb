@@ -2,7 +2,7 @@
 <br>
 - 👋 
 <br>
-Hi there world, I’m @osx86-ijb!** **Nice to e-meet you! This repository will house a lot of my tinkerings with different code, covering a lot of different research and stuff!
+Hi there world, I’m @osx86-ijb! Nice to e-meet you! This repository will house a lot of my tinkerings with different code, covering a lot of different research and stuff!
 <br>
 - 🦾 
 <br>  
