@@ -10,7 +10,7 @@ I'm just me, an amalgamation of everything this world doesn't want to exist.
 <br>  
 - 🤓 
 <br>  
-I'm many things, some of which are: Designer, Developer, Programmer, Researcher, Pro Security
+I'm many things, some of which are: Designer, Developer, Pro Security, Programmer, Researcher
 <br>
 - 👀 
 <br>
