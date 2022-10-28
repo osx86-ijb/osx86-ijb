@@ -2,19 +2,15 @@
 <br>
 - 👋 
 <br>
-Hi there world, I’m @osx86-ijb! Nice to e-meet you! This repository will house a lot of my tinkerings with different code, covering a lot of different research and stuff!
+Hi there world, I’m @osx86-ijb! Nice to e-meet you! This repository will house a lot of my tinkerings with different code, mainly comprised of all things related to macOS!
 <br>
 - 🦾 
 <br>  
-I'm just me, an amalgamation of everything this world doesn't want to exist.
-<br>  
-- 🤓 
-<br>  
-I'm many things, some of which are: Designer, Developer, Pro Security, Programmer, Researcher
+I'm considered many things in this life, some of which are: Designer, Developer, Security Researcher.
 <br>
 - 👀 
 <br>
-I’m interested in becoming more proficient with Assembly Machine Languages, and learning more about everything that I can to become a Superhero.
+I’m interested in becoming more proficient with Assembly Machine Languages, and everything else that I can as well to eventually become a Superhero.
 <br>
 - 🌱 
 <br>  
