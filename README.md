@@ -22,7 +22,7 @@ The day you plant the seed is not the day you eat the fruit.
 <br>
 - 💞️ 
 <br>  
-Major amounts of light, love, peace, and wellness sent to everyone in this wide world.
+Major amounts of light, love, peace, and wellness sent to everyone in this big world.
 </p>
 
 <!---
